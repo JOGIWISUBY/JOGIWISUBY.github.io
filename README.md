@@ -1,2 +1,2 @@
-# JOGIWISUBY.github.io
-#Autores
+# PROYECTO LIC 2021
+
