@@ -1,1 +1,2 @@
 # JOGIWISUBY.github.io
+#Autores
