@@ -1,0 +1,105 @@
+/* 
+body, html
+{
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    height: 100vh;
+} */
+*
+{
+    margin: 0;
+    padding: 0;
+}
+
+body
+{
+    background-color: black;
+}
+* {
+    box-sizing: border-box;
+  }
+  
+
+.imagen
+{
+    /* z-index: -1; */
+    position: relative;
+    width: 100%;
+    height: 700px;
+    
+}
+
+.contenedor-principal{
+    width: 100%;
+    height: auto;
+    min-height: 100vh; /*cm inch em vh r*/
+    background: url("../imagenes/hotel.jpg") no-repeat center center/cover;
+}
+
+#menu-img img{
+    width: 220px;
+    height: 150px;
+}
+
+#menu-img {
+    display: block;
+    float: left;
+    /* top: 0%;
+    left: 0%; */
+}
+
+.navbar
+{
+    background-color: rgba(0, 0, 0, 0.6);
+    display: block;
+    width: 100%;
+    height: 40px;
+    top: 0;
+    position: relative;
+}
+.navbar a
+{
+    text-decoration: none;
+    padding: 15px 15px;
+    float: left;
+    font-size: 20px;
+    color: rgb(255, 255, 255, 0.8);
+}
+.navbar a:hover
+{
+    background-color: rgb(219, 136, 136);
+    color: rgb(255, 255, 255);
+}
+.info
+{
+    background-color: rgba(0, 0, 0, 0.6);
+    display: block;
+    width: 100%;
+    height: 275px;
+    position: static;
+    color: rgb(255, 255, 255);
+    text-align: justify;
+    font-size: 24px;
+}
+#descri
+{
+    font-size: 20px;
+    text-align:justify;
+    width: 50%;
+    float: left;
+    display: inline;
+    margin-top: 1%;
+}
+#insta
+{
+    float: right;
+    display: inline;
+    margin-top: 1%;
+}
+#end
+{
+    color:white;
+    text-align: center;
+    background-color: black;
+}
