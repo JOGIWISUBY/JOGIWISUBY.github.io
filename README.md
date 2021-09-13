@@ -11,11 +11,16 @@ SinObraDerivada — Si remezcla, transforma o crea a partir del material, no pue
 
 No hay restricciones adicionales — No puede aplicar términos legales o medidas tecnológicas que legalmente restrinjan realizar aquello que la licencia permite.
 # Autores
-Aguillón Amaya, Byron Enrique-Diseño y Programación
-Gil Torres, Ana Jocelyn-Diseño y Programación
-Portán Pineda, William Fernando-Diseño y Programación
-Serrano López, Gissela Verenice -Diseño y Programación
-Zelaya Flores, Susan Abigail-Diseño y Programación
+>Aguillón Amaya, Byron Enrique-Diseño y Programación
+
+>Gil Torres, Ana Jocelyn-Diseño y Programación
+
+>Portán Pineda, William Fernando-Diseño y Programación
+
+>Serrano López, Gissela Verenice -Diseño y Programación
+
+>Zelaya Flores, Susan Abigail-Diseño y Programación
+
 # Enlaces de Interes 
 >Tablero en Trello-->https://trello.com/b/h71j5mxi/primera-fase
 
