@@ -17,5 +17,5 @@ Portán Pineda, William Fernando-Diseño y Programación
 Serrano López, Gissela Verenice -Diseño y Programación
 Zelaya Flores, Susan Abigail-Diseño y Programación
 # Enlaces de Interes 
--Tablero en Trello-->https://trello.com/b/h71j5mxi/primera-fase
--Enlace a Mockups-->https://www.figma.com/file/lucgt4FL17CXLy6BDHvrfy/LIC_Proyecto?node-id=0%3A1
+>Tablero en Trello-->https://trello.com/b/h71j5mxi/primera-fase
+>Enlace a Mockups-->https://www.figma.com/file/lucgt4FL17CXLy6BDHvrfy/LIC_Proyecto?node-id=0%3A1
