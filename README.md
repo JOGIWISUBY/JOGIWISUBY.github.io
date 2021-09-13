@@ -10,7 +10,7 @@ NoComercial — No puede utilizar el material para una finalidad comercial.
 SinObraDerivada — Si remezcla, transforma o crea a partir del material, no puede difundir el material modificado.
 
 No hay restricciones adicionales — No puede aplicar términos legales o medidas tecnológicas que legalmente restrinjan realizar aquello que la licencia permite.
-#Autores
+# Autores
 Aguillón Amaya, Byron Enrique-Diseño y Programación
 Gil Torres, Ana Jocelyn-Diseño y Programación
 Portán Pineda, William Fernando-Diseño y Programación
