@@ -33,3 +33,5 @@ No hay restricciones adicionales — No puede aplicar términos legales o medida
 >Manual Tecnico en la nube-->https://drive.google.com/file/d/16YED_7A4mcmQCzQn232x2fW2vRGXyG7-/view?usp=sharing
 
 >Manual de Usuario en la nube-->https://drive.google.com/file/d/1eJ9832tFf7J1DUvumg2pwxrR57OjY1uW/view?usp=sharing
+
+>Enlace de la Pagina Web-->https://jogiwisuby.github.io/
