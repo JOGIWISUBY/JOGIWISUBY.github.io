@@ -129,19 +129,7 @@
     .nav-toggle:focus:not(:focus-visible) {
       outline: none;
     }
-    .content
-{
-    background:#FFBF86;
-    -webkit-border-radius: 10px;
-    -moz-border-radius: 10px;
-    border-radius: 10px;
-    color: rgba(243,226,199,1);
-    font: Bold 0.85em Tahoma,Helvetica,"Liberation Sans";
-    height: auto;
-    margin: 12px auto;
-    padding: 18px 24px;
-    width: 500px;
-}
+ 
   }
   form{
     width: 450px;
@@ -249,7 +237,7 @@
     height: auto;
     margin: 12px auto;
     padding: 18px 24px;
-    width: 710px;
+    width: 320px;
     text-align: center;
 
 }
