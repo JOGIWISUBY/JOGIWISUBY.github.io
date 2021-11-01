@@ -140,6 +140,14 @@
     margin-top: 20px;
     border-radius: 10px;
   }
+  #principal{
+    background-image: url(/img/json.jpeg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: fixed;
+    background-size: cover;
+    opacity: 0.9;
+  }
   h2{
   color: #FFB085;
   text-align: center;
@@ -228,7 +236,7 @@
 }
 .content
 {
-    background:#FFBF86;
+    background:#FF9292;
     -webkit-border-radius: 10px;
     -moz-border-radius: 10px;
     border-radius: 10px;
@@ -238,6 +246,14 @@
     margin: 12px auto;
     padding: 18px 24px;
     width: 320px;
-    text-align: center;
+    text-align: justify;
+    opacity: 0.75;
 
 }
+h4{
+  color:white;
+  text-align: center;
+  margin:0;
+  font-size: 20px;
+  margin-bottom: 20px;
+  }
