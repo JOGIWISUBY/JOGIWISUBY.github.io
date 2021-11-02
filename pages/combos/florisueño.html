@@ -1,0 +1,55 @@
+<!DOCTYPE html>
+<html lang="es">
+  <head id="principal">
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>Navbar</title>
+    <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
+    <link rel="stylesheet" href="/css/stylecombos florisueño.css" />
+    <link rel="stylesheet" href="/css/stylecontacts.css" />
+    <script
+      src="https://kit.fontawesome.com/7e5b2d153f.js"
+      crossorigin="anonymous"
+    ></script>
+    <script defer src="/js/contactanos.js"></script>
+  </head>
+  <body id="principal" class="principal">
+    <header class="header">
+      <nav class="nav">
+        <a href="#" class="logo nav-link">JOGIWISUBY</a>
+        <button class="nav-toggle" aria-label="Abrir menú">
+          <i class="fas fa-bars"></i>
+        </button>
+        <ul class="nav-menu">
+          <li class="nav-menu-item">
+            <a href="/index.html" class="nav-menu-link nav-link"><i class="fas fa-house-user"></i></i>INICIO</a>
+          </li>
+          <li class="nav-menu-item">
+            <a href="/pages/florisueños.html" class="nav-menu-link nav-link"><i class="fas fa-spa"></i></i>FLORISUEÑO</a>
+          </li>
+          <li class="nav-menu-item">
+            <a href="/pages/Contact/florisueños.html" class="nav-menu-link nav-link"><i class="fas fa-address-book"></i></i>CONTACTOS</a>
+          </li>
+        </ul>
+      </nav>
+    </header>
+    <main>
+        <section>
+            <article>
+                <form name="form">
+                  <h2>COMBOS ESPECIALES</h2>
+                    <select name="methods" id=combox class="combox">
+                        <option value="api" selected="selected">Día del Padre</option>
+                        <option value="array">Día de la Madre</option>
+                        <option value="object">San Valentín</option>
+                    </select><br />
+                    <input type="button" name="seleccionar" id="seleccionar" value="Seleccionar" />
+                </form>
+            </article>
+        </section>
+        <div id="content" class="content" ></div>
+        <script src="/js/florisueño.js"></script>
+    </main>
+  </body>
+</html>
