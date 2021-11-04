@@ -35,8 +35,8 @@ function mostrar()
             break;
         case "object":
             // Y claro, también es válido utilizar notación de propiedades de objetos */
-            localStorage.bienvenida = 'Ya sea en una fecha como San Valentín o en una ocasión especial, no dejes que los detalles se te vayan de las manos......'+
-            'Obsequia este fabuloso set compuesto por: Caja de rosas o ramillete de rosas más globo de corazón y caja de chocolates por $50';
+            localStorage.bienvenida = 'Ya sea en una fecha como San Valentín o en una ocasión especial, no dejes que los detalles se te vayan de las manos...... '+
+            ' Obsequia este fabuloso set compuesto por: Caja de rosas o ramillete de rosas más globo de corazón y caja de chocolates por $50';
             valor = localStorage.bienvenida;
             break;
         default:

@@ -4,7 +4,8 @@
     <meta charset="UTF-8" />
     <meta http-equiv="X-UA-Compatible" content="IE=edge" />
     <meta name="viewport" content="width=device-width, initial-scale=1.0" />
-    <title>Navbar</title>
+    <title>Especiales</title>
+    <link rel="icon" href="../../img/CELIFLOR/Celiflorico.png">
     <link href="https://fonts.googleapis.com/css2?family=Josefin+Sans&display=swap" rel="stylesheet">
     <link rel="stylesheet" href="/css/stylecombos celiflor.css" />
     <script
@@ -13,7 +14,20 @@
     ></script>
     <script defer src="/js/contactanos.js"></script>
   </head>
-  <body id="principal" class="principal">
+  <body id="principal" class="principal" class= "hidden">
+    <div class="centrado" id="onload">
+      <div class="lds-ripple">
+          <div></div>
+          <div></div>
+      </div>
+  </div>
+  <script src="https://code.jquery.com/jquery-3.6.0.min.js"> </script>
+  <script>
+      window.onload = function () {
+          $('#onload').fadeOut();
+          $('body').removeClass('hidden');
+      }
+  </script>
     <header class="header">
       <nav class="nav">
         <a href="#" class="logo nav-link">JOGIWISUBY</a>
@@ -22,13 +36,13 @@
         </button>
         <ul class="nav-menu">
           <li class="nav-menu-item">
-            <a href="/index.html" class="nav-menu-link nav-link"><i class="fas fa-house-user"></i></i>INICIO</a>
+            <a href="/index.html" class="nav-menu-link nav-link"><i class="fas fa-house-user"></i></i> INICIO</a>
           </li>
           <li class="nav-menu-item">
-            <a href="/pages/celiflor.html" class="nav-menu-link nav-link"><i class="fas fa-spa"></i></i>CELIFLOR</a>
+            <a href="/pages/celiflor.html" class="nav-menu-link nav-link"><i class="fas fa-spa"></i></i> CELIFLOR</a>
           </li>
           <li class="nav-menu-item">
-            <a href="/pages/Contact/bellaflor.html" class="nav-menu-link nav-link"><i class="fas fa-address-book"></i></i>CONTACTOS</a>
+            <a href="/pages/Contact/bellaflor.html" class="nav-menu-link nav-link"><i class="fas fa-address-book"></i></i> CONTACTOS</a>
           </li>
         </ul>
       </nav>
