@@ -19,18 +19,18 @@ function mostrar()
     {
         case "api":
             // Utilizando la Api de Local Storage, podemos guardar y luegorecuperar un valor
-            localStorage['bienvenida'] = 'Transmite tus sentimientos con distinción y elegancia, exprésate con un detalle que contiene: 1botella de vino, masMistle Toast. Por un costo de $200';
+            localStorage['bienvenida'] = 'Transmite tus sentimientos con distinción y elegancia, exprésate con un detalle que contiene: 1 botella de vino más Mistle Toast. Por un costo de $200';
             valor = localStorage['bienvenida'];
             break;
         case "array":
             // Utilizar notación de matrices o arreglos
             localStorage['bienvenida'] = 'Envía un detalle a ese ser tan especial compuesto por:'+
-            '1 Funky garden o 1 ramillete de girasoles y rosas, más un globo con texto Felicidades Mamá. Por el costo de $75';
+            ' 1 Funky garden o 1 ramillete de girasoles y rosas más un globo con texto Felicidades Mamá. Por el costo de $75';
             valor = localStorage['bienvenida'];
             break;
         case "object":
             // Y claro, también es válido utilizar notación de propiedades de objetos */
-            localStorage.bienvenida = 'Consiente a ese ser tan especial con un detalle tierno y clásico que está formado por: 1 sweetheart o 1 caja negra con rosas, 1 globo, 1 caja de chocolates. Por el costo de $130';
+            localStorage.bienvenida = 'Consiente a ese ser tan especial con un detalle tierno y clásico que está formado por: 1 sweetheart o 1 caja negra con rosas, 1 globo y 1 caja de chocolates. Por el costo de $130';
             valor = localStorage.bienvenida;
             break;
         default:
