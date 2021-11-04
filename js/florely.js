@@ -19,24 +19,20 @@ function mostrar()
     {
         case "api":
             // Utilizando la Api de Local Storage, podemos guardar y luegorecuperar un valor
-            localStorage['bienvenida'] = 'Este combo es el regalo perfecto para expresar el cariño y agradecimiento que sientes hacia papá. '+
-            'Este combo contiene: Caja cervecera o vino y frutas, más un globo personalizado por $45';
+            localStorage['bienvenida'] = 'Sorprende a papá en su día especial con nuestro combo compuesto por: '+
+            '1 Florely35, mas globo personalizado, caja de chocolates. Por el costo de $80';
             valor = localStorage['bienvenida'];
             break;
         case "array":
             // Utilizar notación de matrices o arreglos
-            localStorage['bienvenida'] = 'Ser madre no se puede describir con palabras. Es ternura y vocación que inspira día a día por su gran amor.' + 
-            ' Por ello nuestras floristas, madres también, han trabajado en esta selección de arreglos florales que expresan una pequeña parte de lo que significa ser mamá.' +
-            ' Descubre aquí la combinación perfecta de flores que transmita a mamá el agradecimiento y el cariño, un hermoso arreglo que consta de:' + 
-            ' Orquideas en base de cerámica pequeña,' +
-            ' Ramilletes de girasoles y rosas,' +
-            ' Tropical bucket, todo por un precio de $150.';
+            localStorage['bienvenida'] = 'Demuéstrale a mamá todo tu aprecio y amor hacia ella con nuestro combo compuesto por:'+
+            ' 1 Florely19, 1 caja de chocolates, globo de corazón. Por el costo de $95';
             valor = localStorage['bienvenida'];
             break;
         case "object":
             // Y claro, también es válido utilizar notación de propiedades de objetos */
-            localStorage.bienvenida = 'Ya sea en una fecha como San Valentín o en una ocasión especial, no dejes que los detalles se te vayan de las manos... '+
-            ' Obsequia este fabuloso set compuesto por: Caja de rosas o ramillete de rosas más globo de corazón y caja de chocolates por $50';
+            localStorage.bienvenida = 'Consiente a esa persona especial y sorpréndela con nuestro combo compuesto por:'+
+            ' 1 Florely50, 1 caja de chocolates, 1 globo de corazón. Por el costo de $65';
             valor = localStorage.bienvenida;
             break;
         default:
