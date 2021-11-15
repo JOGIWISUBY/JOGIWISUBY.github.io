@@ -30,9 +30,9 @@ No hay restricciones adicionales — No puede aplicar términos legales o medida
 
 >Enlace a Mockups-->https://www.figma.com/file/lucgt4FL17CXLy6BDHvrfy/LIC_Proyecto?node-id=0%3A1
 
->Manual Tecnico en la nube-->https://drive.google.com/file/d/1jqxIj4vIJnTLd74MNl7-FSWADHv8eKnu/view?usp=sharing
+>Manual Tecnico en la nube-->https://drive.google.com/file/d/1zVv4bHN-KpdtOhG48VwJrgyZe0jd9V94/view?usp=sharing
 
->Manual de Usuario en la nube-->https://drive.google.com/file/d/1PAkKPG_HvPq9rL2GSyCFjlo3WcaBxYMk/view?usp=sharing
+>Manual de Usuario en la nube-->https://drive.google.com/file/d/1IpPsjvuJU7djJov19PowoLXPD3RZZ-TE/view?usp=sharing
 
 >Enlace de la Pagina Web-->https://jogiwisuby.github.io/
 
